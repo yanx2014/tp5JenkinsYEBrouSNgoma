@@ -40,6 +40,7 @@ collector.github.com^partitionKey=%28https%2Cgithub.com%29	0	19694	2332769121686
 hub.docker.com^partitionKey=%28https%2Cdocker.com%29	3	19666	1730748706485,1,0
 espresso-pa.clients6.google.com^partitionKey=%28https%2Cgoogle.com%29	4	19667	1710087772115,1,1
 firefox.settings.services.mozilla.com	8	19694	1733089754006,1,0
+docs.github.com^partitionKey=%28https%2Cgithub.com%29	0	19694	1733189450030,1,0
 login.docker.com^partitionKey=%28https%2Cdocker.com%29	1	19666	1730748725605,1,1
 peoplestackwebexperiments-pa.clients6.google.com^partitionKey=%28https%2Cgoogle.com%29	3	19666	1710087768956,1,1
 docs.google.com^partitionKey=%28https%2Cgoogle.com%29	5	19694	1730753892573,1,1
