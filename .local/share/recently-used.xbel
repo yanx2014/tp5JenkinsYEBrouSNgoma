@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-24%2010-36-13.png" added="2023-10-24T08:36:13.294228Z" modified="2023-10-24T08:36:13.294236Z" visited="2023-10-24T08:36:13.294229Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-24T08:36:13.294233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2013-32-57.png" added="2023-10-28T11:32:58.199571Z" modified="2023-10-28T11:32:58.199580Z" visited="2023-10-28T11:32:58.199573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T11:32:58.199576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2019-21-53.png" added="2023-10-28T17:21:53.711247Z" modified="2023-10-28T17:21:53.711254Z" visited="2023-10-28T17:21:53.711249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T17:21:53.711251Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2019-23-33.png" added="2023-10-28T17:23:33.824242Z" modified="2023-10-28T17:23:33.824248Z" visited="2023-10-28T17:23:33.824243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T17:23:33.824245Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2019-29-54.png" added="2023-10-28T17:29:54.245956Z" modified="2023-10-28T17:29:54.245962Z" visited="2023-10-28T17:29:54.245957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T17:29:54.245959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2021-22-26.png" added="2023-10-28T19:22:27.584959Z" modified="2023-10-28T19:22:27.584965Z" visited="2023-10-28T19:22:27.584960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T19:22:27.584962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-28%2021-52-29.png" added="2023-10-28T19:52:29.230079Z" modified="2023-10-28T19:52:29.230086Z" visited="2023-10-28T19:52:29.230080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T19:52:29.230083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2000-02-59.png" added="2023-10-28T22:03:00.228147Z" modified="2023-10-28T22:03:00.228153Z" visited="2023-10-28T22:03:00.228147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T22:03:00.228149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2001-09-59.png" added="2023-10-28T23:10:00.179508Z" modified="2023-10-28T23:10:00.179513Z" visited="2023-10-28T23:10:00.179509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T23:10:00.179511Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2001-11-21.png" added="2023-10-28T23:11:21.314290Z" modified="2023-10-28T23:11:21.314295Z" visited="2023-10-28T23:11:21.314292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-28T23:11:21.314293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2011-19-52.png" added="2023-10-29T10:19:52.959512Z" modified="2023-10-29T10:19:52.962311Z" visited="2023-10-29T10:19:52.959514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-29T10:19:52.959546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2014-22-07.png" added="2023-10-29T13:22:07.749951Z" modified="2023-10-29T13:22:07.749958Z" visited="2023-10-29T13:22:07.749953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-29T13:22:07.749955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-10-29%2014-39-58.png" added="2023-10-29T13:39:58.041348Z" modified="2023-10-29T13:39:58.041353Z" visited="2023-10-29T13:39:58.041349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-10-29T13:39:58.041350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/TP%204%20Volumes,%20R%C3%A9seaux%20et%20Docker%20compose.pdf" added="2023-10-29T17:24:45.206139Z" modified="2023-10-29T17:24:45.206144Z" visited="2023-10-29T17:24:45.206140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-10-29T17:24:45.206141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2018-21-12.png" added="2023-11-05T17:21:12.145279Z" modified="2023-11-05T17:21:12.146296Z" visited="2023-11-05T17:21:12.145279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T17:21:12.145281Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2018-23-26.png" added="2023-11-05T17:23:26.880690Z" modified="2023-11-05T17:23:26.880697Z" visited="2023-11-05T17:23:26.880692Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T17:23:26.880694Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2018-23-54.png" added="2023-11-05T17:23:54.058357Z" modified="2023-11-05T17:23:54.058361Z" visited="2023-11-05T17:23:54.058357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T17:23:54.058359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2019-27-41.png" added="2023-11-05T18:27:41.713548Z" modified="2023-11-05T18:27:41.713578Z" visited="2023-11-05T18:27:41.713549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T18:27:41.713573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/TP%204%20Volumes,%20R%C3%A9seaux%20et%20Docker%20compose-1.pdf" added="2023-11-05T19:20:14.472172Z" modified="2023-11-05T19:20:14.472176Z" visited="2023-11-05T19:20:14.472173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-11-05T19:20:14.472174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2021-55-09.png" added="2023-11-05T20:55:09.880529Z" modified="2023-11-05T20:55:09.881198Z" visited="2023-11-05T20:55:09.880531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T20:55:09.881193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2022-06-13.png" added="2023-11-05T21:06:13.297338Z" modified="2023-11-05T21:06:13.297350Z" visited="2023-11-05T21:06:13.297339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T21:06:13.297348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2022-46-33.png" added="2023-11-05T21:46:34.081653Z" modified="2023-11-05T21:46:34.081666Z" visited="2023-11-05T21:46:34.081654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T21:46:34.081658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2023-15-28.png" added="2023-11-05T22:15:28.387840Z" modified="2023-11-05T22:15:28.387845Z" visited="2023-11-05T22:15:28.387841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T22:15:28.387843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2023-27-07.png" added="2023-11-05T22:27:07.811799Z" modified="2023-11-05T22:27:07.811806Z" visited="2023-11-05T22:27:07.811800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T22:27:07.811803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2023-47-10.png" added="2023-11-05T22:47:11.306997Z" modified="2023-11-05T22:47:11.307004Z" visited="2023-11-05T22:47:11.306999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T22:47:11.307001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-11-05%2023-47-54.png" added="2023-11-05T22:47:54.728409Z" modified="2023-11-05T22:47:54.728416Z" visited="2023-11-05T22:47:54.728411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-11-05T22:47:54.728413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
