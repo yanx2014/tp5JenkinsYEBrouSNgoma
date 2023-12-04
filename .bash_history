@@ -26,3 +26,6 @@ cat /etc/os−release > os_version
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key
 | sudo tee /usr/share/keyrings/jenkins-keyring.asc > /dev/null
 su root
+maven
+ls
+su root

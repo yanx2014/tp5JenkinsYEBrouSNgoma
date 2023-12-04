@@ -1,7 +1,12 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox_firefox.desktop" score="12241" last-seen="1701633559"/>
-    <application id="org.gnome.Terminal.desktop" score="5495" last-seen="1701633605"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1701642720"/>
+    <application id="org.gnome.Nautilus.desktop" score="5" last-seen="1701671804"/>
+    <application id="firefox_firefox.desktop" score="14475" last-seen="1701723968"/>
+    <application id="libreoffice-impress.desktop" score="206" last-seen="1701641128"/>
+    <application id="org.gnome.Terminal.desktop" score="9520" last-seen="1701723968"/>
+    <application id="libreoffice-startcenter.desktop" score="2" last-seen="1701638426"/>
+    <application id="apport-gtk.desktop" score="3" last-seen="1701671831"/>
   </context>
 </application-state>

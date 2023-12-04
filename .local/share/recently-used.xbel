@@ -263,4 +263,68 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-12-03%2021-37-18.png" added="2023-12-03T20:37:18.738273Z" modified="2023-12-03T20:37:18.738279Z" visited="2023-12-03T20:37:18.738275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-12-03T20:37:18.738276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-12-03%2021-38-30.png" added="2023-12-03T20:38:30.727276Z" modified="2023-12-03T20:38:30.727288Z" visited="2023-12-03T20:38:30.727278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-12-03T20:38:30.727284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Cours%20Jenkins-DEVOPS.pptx" added="2023-12-03T20:56:35.683085Z" modified="2023-12-03T20:56:37.859199Z" visited="2023-12-03T20:56:35.683087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-12-03T20:56:37.859196Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Downloads/Cours%20Jenkins-DEVOPS(1).pptx" added="2023-12-03T21:20:28.112098Z" modified="2023-12-03T21:50:52.228526Z" visited="2023-12-03T21:20:28.112115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-12-03T21:50:52.228524Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-12-03%2023-31-47.png" added="2023-12-03T22:31:48.165528Z" modified="2023-12-03T22:31:55.313330Z" visited="2023-12-03T22:31:48.165530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-12-03T22:31:48.165535Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-12-03T22:31:55.313328Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/Pictures/Screenshots/Screenshot%20from%202023-12-04%2020-47-32.png" added="2023-12-04T19:47:32.554915Z" modified="2023-12-04T19:47:32.554977Z" visited="2023-12-04T19:47:32.554922Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-12-04T19:47:32.554961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
